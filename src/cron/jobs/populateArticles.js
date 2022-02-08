@@ -1,4 +1,4 @@
-const ConnectArticles = require("./ArticlesService");
+const ConnectArticles = require("./ConnectArticles");
 const Articles = require("../../model/Articles");
 const saveServices = require('../../services/SaveServices');
 
