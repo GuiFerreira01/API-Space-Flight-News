@@ -36,7 +36,7 @@ Possibilita listar os artigos, adicionar novos artigos, editar os artigos ja exi
 ### Configuração banco de dados
 
 
-- Para configurar o bando de dados crie um arquivo na pasta font da API com o nome de `.ENV`;
+- Para configurar o bando de dados crie um arquivo na pasta font da API com o nome de `.env`;
 - E crie uma variavel de ambiente com o nome de `DATABASE_URL` e na frente o link para o seu banco de dados :
 ```        
   DATABASE_URL = Link para o bando de dados MongoDB;
