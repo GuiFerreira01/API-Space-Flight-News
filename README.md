@@ -140,6 +140,11 @@ Possibilita listar os artigos, adicionar novos artigos, editar os artigos ja exi
 
 <hr />
 
+Link da apresentação da Rest API: https://www.loom.com/embed/c87dfb63b1a94be997914b2926c54dfc 
+
+
+<hr />
+
 
 This is a challenge by <a href="https://coodesh.com/" target="_blank" >Coodesh.</a>
 
